@@ -248,3 +248,7 @@ body {
 #body_home div .sender[type*=normal][colornumber='30'] {
   color: #ebecf7;
 }
+#body_home div .inlineimage {
+  display: block;
+  margin: 0.5em 0;
+}
